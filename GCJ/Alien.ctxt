@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=void\ initialise()
+comment1.target=void\ getWords()
+comment2.target=void\ getTestCase()
+comment3.target=int\ countWords()
+comment4.params=actual\ undeci
+comment4.target=boolean\ isFound(char,\ String)
+comment5.params=r\ c
+comment5.target=void\ print(int,\ int)
+comment6.target=int\ solve()
+comment7.target=void\ controlRoom()
+numComments=8

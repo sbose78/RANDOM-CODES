@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=void\ initialise()
+comment1.target=void\ controlRoom()
+comment2.target=void\ getData()
+comment2.text=public\ void\ print(){\nfor(int\ i\ \=0;\ i<size;\ i++){\nSystem.out.print(arr1[i]+"\ \\t");\n}System.out.println();\n\n\nfor(int\ i\ \=0;\ i<size;\ i++){\nSystem.out.print(arr2[i]+"\ \\t");\n}System.out.println();\n\n}\n
+comment3.target=String\ calculate()
+comment4.target=String\ solve()
+comment5.params=r\ c
+comment5.target=void\ printOutput(String,\ int)
+numComments=6

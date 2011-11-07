@@ -1,0 +1,363 @@
+BODY {
+	MIN-WIDTH: 50em
+}
+FORM {
+	MARGIN: 0px
+}
+#dsb-page-body {
+	POSITION: relative; MARGIN: 0.8em 0px 1em; DISPLAY: none; CLEAR: both
+}
+TABLE {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0pt; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP-WIDTH: 0pt; BORDER-BOTTOM-WIDTH: 0pt; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0pt; PADDING-TOP: 0px
+}
+TH {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0pt; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP-WIDTH: 0pt; BORDER-BOTTOM-WIDTH: 0pt; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0pt; PADDING-TOP: 0px
+}
+TR {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0pt; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP-WIDTH: 0pt; BORDER-BOTTOM-WIDTH: 0pt; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0pt; PADDING-TOP: 0px
+}
+TD {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0pt; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP-WIDTH: 0pt; BORDER-BOTTOM-WIDTH: 0pt; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0pt; PADDING-TOP: 0px
+}
+DIV.main {
+	DISPLAY: none
+}
+#dsb-header-links {
+	TEXT-ALIGN: right
+}
+#dsb-contest-title-bar {
+	POSITION: relative; TEXT-ALIGN: right; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; PADDING-TOP: 0.5em
+}
+#dsb-contest-title {
+	FLOAT: left; COLOR: #333333
+}
+DIV.dsb-problem-tab-open DIV.dynamic-link {
+	BACKGROUND-COLOR: #c3d9ff; COLOR: black; CURSOR: default; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.dsb-anal-tab-open DIV.dynamic-link {
+	BACKGROUND-COLOR: #c3d9ff; COLOR: black; CURSOR: default; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.dsb-problem-tab-close DIV.dynamic-link {
+	BACKGROUND-COLOR: white; CURSOR: pointer
+}
+DIV.dsb-anal-tab-close DIV.dynamic-link {
+	BACKGROUND-COLOR: white; CURSOR: pointer
+}
+DIV.dsb-clar-tab-open DIV.dynamic-link {
+	BACKGROUND-COLOR: #c9edcc; COLOR: black; CURSOR: default; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.dsb-submissions-tab-open DIV.dynamic-link {
+	BACKGROUND-COLOR: #c9edcc; COLOR: black; CURSOR: default; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.dsb-clar-tab-close DIV.dynamic-link {
+	BACKGROUND-COLOR: white; CURSOR: pointer
+}
+DIV.dsb-submissions-tab-close DIV.dynamic-link {
+	BACKGROUND-COLOR: white; CURSOR: pointer
+}
+DIV.dsb-problem-tab-open DIV.dynamic-link DIV {
+	DISPLAY: inline; COLOR: black; TEXT-DECORATION: none
+}
+DIV.dsb-anal-tab-open DIV.dynamic-link DIV {
+	DISPLAY: inline; COLOR: black; TEXT-DECORATION: none
+}
+DIV.dsb-problem-tab-close DIV.dynamic-link DIV {
+	DISPLAY: inline; COLOR: blue; TEXT-DECORATION: underline
+}
+DIV.dsb-anal-tab-close DIV.dynamic-link DIV {
+	DISPLAY: inline; COLOR: blue; TEXT-DECORATION: underline
+}
+DIV.problemStatusWrapper {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.5em; PADDING-TOP: 0.3em
+}
+TABLE.problemStatus {
+	MARGIN: 0.3em 0px 0.3em 0em; COLOR: #666666; FONT-SIZE: 90%
+}
+TABLE.problemStatus TD.inputName {
+	TEXT-ALIGN: right; WIDTH: 2em; PADDING-RIGHT: 0.4em; BORDER-RIGHT: #b6caee 1px solid
+}
+TABLE.problemStatus TD.status {
+	PADDING-LEFT: 0.4em
+}
+.dsb-mini-status-highlight {
+	BACKGROUND-COLOR: #eefbce; DISPLAY: inline; COLOR: black
+}
+.dsb-mini-status-non-highlight {
+	COLOR: black
+}
+#dsb-status-tab {
+	WIDTH: 13.48em
+}
+.dsb-mini-tab-wrapper {
+	BORDER-BOTTOM: #c3d9ff 0.2em solid; BORDER-LEFT: #c3d9ff 0.2em solid; MARGIN: 0px 0.9em 0px 0.3em; WIDTH: 13.5em; BORDER-TOP: #c3d9ff 0.2em solid; BORDER-RIGHT: #c3d9ff 0.2em solid; -moz-border-radius: 0.3em
+}
+.dsb-status-problem-title {
+	BORDER-BOTTOM: #cccccc 1px solid; PADDING-BOTTOM: 0.25em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: black; FONT-SIZE: 90%; PADDING-TOP: 0.15em
+}
+#dsb-scoreboard-div {
+	FONT-WEIGHT: 500
+}
+#dsb-scoreboard-table {
+	WIDTH: 13.48em; FONT-SIZE: small
+}
+#dsb-scoreboard-header-div {
+	BORDER-BOTTOM: #c3d9ff 1px solid; PADDING-BOTTOM: 0.25em; BACKGROUND-COLOR: #c3d9ff; PADDING-LEFT: 0.5em; FONT-SIZE: 95%; PADDING-TOP: 0.25em
+}
+#dsb-status-header-div {
+	BORDER-BOTTOM: #c3d9ff 1px solid; PADDING-BOTTOM: 0.25em; BACKGROUND-COLOR: #c3d9ff; PADDING-LEFT: 0.5em; FONT-SIZE: 95%; PADDING-TOP: 0.25em
+}
+DIV.dsb-mini-tab-link {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 0.5em; PADDING-LEFT: 0px; PADDING-RIGHT: 0.5em; PADDING-TOP: 0px
+}
+.dsb-name-td {
+	PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.5em; WIDTH: 11em; PADDING-RIGHT: 0px; PADDING-TOP: 0.2em
+}
+.dsb-score-td {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0px; WIDTH: 2.48em; PADDING-RIGHT: 0.5em; PADDING-TOP: 0.2em
+}
+.dsb-scoreboard-row-odd {
+	BACKGROUND-COLOR: #eeeeee
+}
+DIV.dsb-blue-border {
+	POSITION: relative; PADDING-BOTTOM: 0.45em; BACKGROUND-COLOR: #c3d9ff; PADDING-LEFT: 0.45em; PADDING-RIGHT: 0.45em; PADDING-TOP: 0.45em; -moz-border-radius: 0.2em
+}
+DIV.dsb-green-border {
+	POSITION: relative; PADDING-BOTTOM: 0.45em; BACKGROUND-COLOR: #c9edcc; PADDING-LEFT: 0.45em; PADDING-RIGHT: 0.45em; PADDING-TOP: 0.45em; -moz-border-radius: 0.2em
+}
+#dsb-border-inner {
+	PADDING-BOTTOM: 0.5em; BACKGROUND-COLOR: white; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; PADDING-TOP: 0.5em
+}
+DIV.dsb-status-msg-wrapper {
+	TEXT-ALIGN: center; VISIBILITY: hidden
+}
+DIV.dsb-status-msg {
+	PADDING-BOTTOM: 0.4em; LINE-HEIGHT: 1.75em; BACKGROUND-COLOR: #faeca5; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; DISPLAY: inline; FONT-WEIGHT: bold; PADDING-TOP: 0.4em; -moz-border-radius: 0.5em
+}
+#dsb-view-it-link {
+	COLOR: blue; CURSOR: pointer; TEXT-DECORATION: underline
+}
+.dsb-content-pages {
+	PADDING-BOTTOM: 1em; MIN-HEIGHT: 30em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; DISPLAY: none; PADDING-TOP: 1em
+}
+DIV.clarTableWrapper {
+	MAX-HEIGHT: 40em; OVERFLOW: auto; PADDING-TOP: 1em
+}
+TR.dsb-clar-tr TD {
+	BORDER-BOTTOM: #ddd 1px solid; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.5em; EMPTY-CELLS: show; BORDER-TOP: #ddd 1px solid; PADDING-TOP: 0.2em
+}
+TR.dsb-clar-tr-odd {
+	BACKGROUND-COLOR: #efefef
+}
+TR.dsb-clar-tr-announcement {
+	BACKGROUND-COLOR: #ffffd4
+}
+.clarTimeColumn {
+	TEXT-ALIGN: right
+}
+TD.clarProbTd {
+	PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; PADDING-TOP: 0.2em
+}
+#dsb-problem-title-div {
+	BORDER-BOTTOM: #e8f0ff 0.1em solid; PADDING-BOTTOM: 0.4em; MARGIN: 0px 0.5em; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; COLOR: #333333; FONT-SIZE: 112%; FONT-WEIGHT: bold; PADDING-TOP: 0.4em
+}
+.dsb-input-panel-text {
+	PADDING-BOTTOM: 0.5em; WHITE-SPACE: nowrap
+}
+SPAN.problemInput {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; HEIGHT: 1em; PADDING-TOP: 0.4em
+}
+SPAN.inputText {
+	PADDING-LEFT: 0.3em; DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+SPAN.inputText SPAN.inputLink {
+	COLOR: blue; TEXT-DECORATION: underline
+}
+SPAN.inputTextStatic {
+	PADDING-LEFT: 0.3em; DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+INPUT.submitFormFile {
+	MARGIN: 0.1em 0.5em
+}
+SPAN.dsb-submit-form-links {
+	COLOR: blue; MARGIN-LEFT: 0.25em; CURSOR: pointer; TEXT-DECORATION: underline
+}
+SPAN.dsb-submit-form-redownload-zipped-link {
+	MARGIN-LEFT: 0em
+}
+DIV.dsb-submit-form-separator {
+	PADDING-BOTTOM: 0.2em; MARGIN-TOP: 0.5em; BORDER-TOP: #fff8aa 0.1em solid; PADDING-TOP: 0.5em
+}
+DIV.inputForm {
+	BORDER-BOTTOM: #ddc850 1px solid; POSITION: absolute; PADDING-BOTTOM: 0.5em; BACKGROUND-COLOR: #faeca5; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; DISPLAY: none; BORDER-RIGHT: #ddc850 1px solid; PADDING-TOP: 0.5em; -moz-border-radius-bottomleft: 0.5em; -moz-border-radius-bottomright: 0.5em; -moz-border-radius-topright: 0.5em
+}
+.dsb-problem-content-div {
+	MARGIN-TOP: 2em; MIN-HEIGHT: 45em; MAX-WIDTH: 40em; VERTICAL-ALIGN: top; MARGIN-RIGHT: 6em
+}
+#dsb-clar-close-image-div {
+	POSITION: absolute; TEXT-ALIGN: left; TOP: 0.1em; LEFT: 0.1em
+}
+#dsb-time-remaining {
+	DISPLAY: inline; COLOR: #999999
+}
+#dsb-current-score-div {
+	PADDING-RIGHT: 1em; DISPLAY: inline; COLOR: #333333
+}
+#dsb-current-rank-div {
+	PADDING-RIGHT: 1em; DISPLAY: inline; COLOR: #333333
+}
+#dsb-current-score-span {
+	COLOR: #3f762c
+}
+#dsb-current-rank-span {
+	COLOR: #3f762c
+}
+#dsb-clarification-table {
+	MIN-WIDTH: 30em; DISPLAY: none
+}
+#dsb-clarification-table TH {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; PADDING-TOP: 0.3em
+}
+#dsb-clarification-table TD {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; PADDING-TOP: 0.3em
+}
+#dsb-submissions-table TH {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; PADDING-TOP: 0.3em
+}
+#dsb-submissions-table TD {
+	PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; PADDING-TOP: 0.3em
+}
+#dsb-clarification-table TH {
+	FONT-SIZE: 90%; FONT-WEIGHT: 500
+}
+#dsb-submissions-table TH {
+	FONT-SIZE: 90%; FONT-WEIGHT: 500
+}
+.problem-item {
+	FONT-SIZE: 110%
+}
+.problem-item-gray {
+	FONT-SIZE: 110%
+}
+.problem-item-gray {
+	FONT-SIZE: 100%
+}
+.problem-io-wrapper {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 2em; OVERFLOW-Y: hidden; BACKGROUND-COLOR: #efefef; WIDTH: 90%; MARGIN-BOTTOM: 2em; OVERFLOW: auto; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.problem-io-wrapper TD {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; PADDING-TOP: 0px
+}
+.dsb-input-table-description {
+	PADDING-BOTTOM: 0.5em; LINE-HEIGHT: 1.5em; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; WHITE-SPACE: nowrap; COLOR: #333333; BORDER-RIGHT: #cccccc 0.1em solid; PADDING-TOP: 0.5em
+}
+.dsb-input-table-caption {
+	MARGIN-TOP: 0.4em; PADDING-LEFT: 0.5em; DISPLAY: block; COLOR: #666666
+}
+.dsb-input-table-linktd {
+	PADDING-BOTTOM: 0.5em; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; WHITE-SPACE: nowrap; PADDING-TOP: 0.5em
+}
+.dsb-input-link-span {
+	DISPLAY: inline; CURSOR: pointer; TEXT-DECORATION: none
+}
+.dsb-input-link-text {
+	COLOR: blue; CURSOR: pointer; TEXT-DECORATION: underline
+}
+.dsb-input-link-img {
+	PADDING-RIGHT: 0.2em; DISPLAY: inline
+}
+.dsb-no-image-link-text {
+	PADDING-LEFT: 0.2em; MARGIN-LEFT: 15px
+}
+.dsb-input-wrapper {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; DISPLAY: inline; PADDING-TOP: 0.4em
+}
+.dsb-input-more-options {
+	PADDING-BOTTOM: 0.2em; BACKGROUND-COLOR: #f0f0f0; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; MARGIN-LEFT: 1em; CURSOR: default; PADDING-TOP: 0.2em
+}
+.dsb-input-dropdown-menu {
+	BORDER-BOTTOM: #222222 1px solid; POSITION: absolute; BORDER-LEFT: #222222 1px solid; PADDING-BOTTOM: 0.2em; BACKGROUND-COLOR: #f0f0f0; PADDING-LEFT: 0.2em; WIDTH: 16em; PADDING-RIGHT: 0.2em; VISIBILITY: hidden; BORDER-TOP: #222222 1px solid; BORDER-RIGHT: #222222 1px solid; PADDING-TOP: 0.2em
+}
+.dsb-input-dropdown-menu-text {
+	FONT-STYLE: italic; DISPLAY: block; COLOR: #444444
+}
+.dsb-input-dropdown-menu-item {
+	PADDING-LEFT: 1em; DISPLAY: block
+}
+.dsb-input-dropdown-menu-item:visited {
+	COLOR: blue
+}
+.dsb-input-dropdown-menu-item:hover {
+	BACKGROUND-COLOR: cyan; COLOR: blue
+}
+.dsb-submit-form-div {
+	BORDER-BOTTOM: #ddc850 1px solid; PADDING-BOTTOM: 0.5em; BACKGROUND-COLOR: #faeca5; PADDING-LEFT: 0.5em; PADDING-RIGHT: 0.5em; DISPLAY: none; MAX-WIDTH: 30em; TOP: -0.2em; BORDER-RIGHT: #ddc850 1px solid; PADDING-TOP: 0.5em; -moz-border-radius-bottomleft: 0.5em; -moz-border-radius-bottomright: 0.5em; -moz-border-radius-topright: 0.5em
+}
+.dsb-submission-switch {
+	BORDER-BOTTOM: #faeca5 2px solid; BORDER-LEFT: #faeca5 2px solid; PADDING-BOTTOM: 0.1em; PADDING-LEFT: 0.1em; PADDING-RIGHT: 0.1em; COLOR: black; MARGIN-LEFT: 1em; BORDER-TOP: #faeca5 2px solid; CURSOR: pointer; BORDER-RIGHT: #faeca5 2px solid; PADDING-TOP: 0.1em
+}
+IMG {
+	VERTICAL-ALIGN: middle
+}
+.dsb-has-new-question-tab {
+	FONT-WEIGHT: bold
+}
+PRE {
+	COLOR: black
+}
+CODE {
+	COLOR: black
+}
+PRE {
+	WIDTH: 86%; FONT-SIZE: 90%
+}
+.dsb-sub-status-msg {
+	TEXT-ALIGN: left; MARGIN-BOTTOM: 0.5em; HEIGHT: 1.2em; FONT-SIZE: 100%
+}
+.dsb-sub-row-id-width {
+	WIDTH: 2em
+}
+.dsb-sub-name-width {
+	WIDTH: 12em
+}
+.dsb-sub-difficulty-width {
+	WIDTH: 5em
+}
+.dsb-sub-input-width {
+	WIDTH: 4.5em
+}
+.dsb-sub-output-width {
+	WIDTH: 4.5em
+}
+.dsb-sub-source-width {
+	WIDTH: 4.5em
+}
+.dsb-sub-status-width {
+	TEXT-ALIGN: right; WIDTH: 7.5em
+}
+.dsb-sub-time-width {
+	TEXT-ALIGN: right; WIDTH: 7.5em
+}
+.dsb-sub-download-link-span {
+	WIDTH: 15px; DISPLAY: block; HEIGHT: 15px; CURSOR: pointer
+}
+.dsb-sub-download-link-disabled-span {
+	CURSOR: default
+}
+.dsb-sub-even-row {
+	BACKGROUND-COLOR: #efefef
+}
+.dsb-sub-odd-row {
+	BACKGROUND-COLOR: #ffffff
+}
+TR.dsb-sub-odd-row TD {
+	BORDER-BOTTOM: #ddd 1px solid; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.5em; EMPTY-CELLS: show; BORDER-TOP: #ddd 1px solid; PADDING-TOP: 0.2em
+}
+TR.dsb-sub-even-row TD {
+	BORDER-BOTTOM: #ddd 1px solid; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.5em; EMPTY-CELLS: show; BORDER-TOP: #ddd 1px solid; PADDING-TOP: 0.2em
+}
+.dsb-analysis-selected {
+	COLOR: black; CURSOR: default; TEXT-DECORATION: none
+}
+.dsb-analysis-not-selected {
+	COLOR: blue; CURSOR: pointer; TEXT-DECORATION: underline
+}

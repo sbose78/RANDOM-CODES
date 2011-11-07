@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ isUnique(int)
+comment1.params=n\ base
+comment1.target=boolean\ isHappy(int,\ int)
+comment2.params=n\ base
+comment2.target=boolean\ sumOfDigits(int,\ int)
+comment3.target=int\ trulyHappy()
+comment4.target=void\ control()
+numComments=5

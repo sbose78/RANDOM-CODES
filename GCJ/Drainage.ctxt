@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=void\ getData()
+comment1.target=int\ findSmallest()
+comment2.params=n\ old
+comment2.target=void\ replace(char,\ char)
+comment3.target=void\ solve()
+comment4.params=a\ c
+comment4.target=void\ print([,\ int)
+comment5.target=void\ controlRoom()
+numComments=6
