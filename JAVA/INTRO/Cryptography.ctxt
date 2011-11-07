@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Cryptography(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Cryptography\n\n
+comment1.params=move
+comment1.target=String\ encode(int)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n@param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n@return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n\n
+numComments=2

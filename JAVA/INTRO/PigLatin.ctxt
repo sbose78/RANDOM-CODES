@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=PigLatin(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ PigLatin\n\n
+comment1.target=String\ toPG()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n@param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n@return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n\n
+comment2.params=c
+comment2.target=boolean\ isVowel(char)
+comment3.target=int\ indexOfFirstLetter()
+numComments=4

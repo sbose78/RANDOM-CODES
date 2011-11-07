@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Vector\ getAllShapes()
+comment1.params=shape
+comment1.target=boolean\ add(String)
+comment2.params=shape
+comment2.target=void\ addTemp(String)
+comment3.target=void\ clear()
+numComments=4

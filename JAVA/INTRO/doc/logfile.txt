@@ -1,0 +1,28 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Program Files\Java\jdk1.5.0\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.5
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+G:\JAVA\INTRO\doc
+-classpath
+D:\Program Files\Java\BlueJ\lib\bluejcore.jar;D:\Program Files\Java\BlueJ\lib\junit.jar;G:\JAVA\INTRO
+G:\JAVA\INTRO\Son.java
+<---- end of javadoc command ---->
+Loading source file G:\JAVA\INTRO\Son.java...
+Constructing Javadoc information...
+G:\JAVA\INTRO\Son.java:8: cannot access Animal
+file Animal.class not found
+public class Son extends Mammal
+       ^
+Standard Doclet version 1.5.0
+Building tree for all the packages and classes...
+1 warning

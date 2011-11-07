@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ addShape(Tool.Shape)
+comment1.target=Vector\ getAllShapes()
+comment2.target=void\ start()
+comment3.target=void\ stop()
+comment4.target=String\ getStatus()
+numComments=5

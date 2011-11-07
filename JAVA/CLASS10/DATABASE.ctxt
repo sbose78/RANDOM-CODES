@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=name\ roll\ marks\ active
+comment0.target=DATABASE(String,\ int,\ int,\ boolean)
+comment1.target=String\ getName()
+comment2.target=int\ getRoll()
+comment3.target=int\ getMarks()
+comment4.params=pout
+comment4.target=void\ addRecord(PrintWriter)
+comment5.target=boolean\ getActive()
+comment6.params=infile
+comment6.target=boolean\ readRecord(BufferedReader)
+comment7.target=void\ display()
+numComments=8

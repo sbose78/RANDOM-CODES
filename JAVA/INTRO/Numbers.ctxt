@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Numbers(double)
+comment1.params=x\ n
+comment1.target=double\ power(double,\ double)
+comment2.target=double\ calc()
+numComments=3

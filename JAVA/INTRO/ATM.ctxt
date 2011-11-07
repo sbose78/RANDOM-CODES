@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ATM()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ ATM\n\n
+comment1.target=void\ withdraw()
+comment2.target=void\ deposit()
+comment3.target=void\ balanceEnquiry()
+comment4.target=void\ exitSystem()
+comment5.target=void\ printMenu()
+comment6.target=void\ validateAccessCode()
+comment7.params=args
+comment7.target=void\ main([)
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ setWhiteboard(Whiteboard)
+comment1.target=void\ notifyWhiteboard()
+comment2.params=s
+comment2.target=void\ addShape(Tool.Shape)
+comment3.target=Vector\ getAllShapes()
+comment4.target=void\ start()
+comment5.target=void\ stop()
+comment6.target=String\ getStatus()
+numComments=7

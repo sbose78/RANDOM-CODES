@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=l\ b\ breasts\ age
+comment0.target=Son(int,\ String,\ int,\ int)
+comment1.target=void\ printCharacteristics2()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n@param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n@return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n\n
+numComments=2

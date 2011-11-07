@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Sort(int)
+comment1.params=a
+comment1.target=void\ printData([)
+comment1.text=public\ void\ insertion()throws\ IOException\n{\ \ \ \ngetData();\nfor(int\ i\=1;i<arr.length;i++)\n{\nint\ c\=arr[i];\n\nfor(int\ j\=i;j>0;j--)\n{\nif(c<arr[j-1])\n{\nint\ temp\=arr[j];\narr[j]\=arr[j-1];\narr[j-1]\=temp;\n}\n}\n}\nprintData();\n}\n\n
+comment2.params=a
+comment2.target=void\ getData([)
+comment3.target=void\ mergeSort()
+comment4.params=a\ b\ l
+comment4.target=void\ merge([,\ [,\ int)
+numComments=5

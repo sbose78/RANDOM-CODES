@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=g\ pos\ active
+comment0.target=void\ paint(Graphics,\ int,\ boolean)
+comment1.params=w\ x\ y\ c
+comment1.target=Shape\ createShape(WhiteboardContext,\ int,\ int,\ Color)
+comment2.params=s
+comment2.target=Shape\ shapeFromString(String)
+comment3.target=char\ getToolID()
+comment4.params=s
+comment4.target=String\ hexencode(String)
+comment5.params=s
+comment5.target=String\ hexdecode(String)
+numComments=6

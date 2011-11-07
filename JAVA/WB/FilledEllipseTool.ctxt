@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=g\ pos\ active
+comment0.target=void\ paint(Graphics,\ int,\ boolean)
+comment1.params=w\ x\ y\ c
+comment1.target=Shape\ createShape(WhiteboardContext,\ int,\ int,\ Color)
+comment2.params=s
+comment2.target=Shape\ shapeFromString(String)
+comment3.target=char\ getToolID()
+numComments=4

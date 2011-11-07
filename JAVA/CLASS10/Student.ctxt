@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=void\ add()
+comment1.target=boolean\ del()
+comment2.target=boolean\ recall()
+comment3.target=boolean\ edit()
+comment4.target=boolean\ print()
+comment5.target=void\ pack()
+numComments=6

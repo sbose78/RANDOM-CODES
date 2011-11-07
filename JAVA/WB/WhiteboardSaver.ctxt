@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=int\ getXOffset()
+comment1.target=int\ getYOffset()
+comment2.params=newValue
+comment2.target=void\ setXOffset(int)
+comment3.params=newValue
+comment3.target=void\ setYOffset(int)
+comment4.target=String\ getText()
+comment5.params=filename
+comment5.target=void\ savePNG(String)
+comment6.params=args
+comment6.target=void\ main(String[])
+numComments=7
